@@ -9,7 +9,12 @@ cstrike folder https://www.unknowncheats.me/forum/downloads.php?do=file&id=33716
 
 2- Replace Latest DLL with the ZE.dll located in ZE-Elite Folder.
 
-3- Inject with your favorite injector.
+3- Folder ZE-Elite shoud contain:
+- cstrike (custom ze-elite version)
+- ZE
+- ZE.dll
+
+4- Inject with your favorite injector.
 
 # How To Add More Sounds To Voice Chat
 1- Get .mp3 or .wav file
